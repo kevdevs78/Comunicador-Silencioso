@@ -2,8 +2,6 @@
 **Universidad Mariano Gálvez de Guatemala**  
 **Curso:** Autómatas y Lenguajes Formales  
 
-
-
 ---
 
 ## 🎯 1. Objetivo General
@@ -128,14 +126,42 @@ tensorflow==2.13.0
 matplotlib==3.9.4
 ```
 
-Instalación rápida:
+---
+
+## ⚙️ 9. Creación del entorno virtual (`entorno_gsm`)
+
+Antes de instalar las dependencias, se recomienda crear un entorno virtual para mantener las librerías aisladas del sistema principal.
+
+### 🪟 En **Windows (PowerShell)**
+
+```bash
+python -m venv entorno_gsm
+entorno_gsm\Scripts\activate
+```
+
+### 🐧 En **Linux o macOS**
+
+```bash
+python3 -m venv entorno_gsm
+source entorno_gsm/bin/activate
+```
+
+> Cuando el entorno esté activo, verás algo como:
+> `(entorno_gsm)` al inicio de la línea de comandos.
+
+Luego instala las dependencias:
 ```bash
 pip install -r requirements.txt
 ```
 
+Para salir del entorno:
+```bash
+deactivate
+```
+
 ---
 
-## 🚀 9. Instrucciones de ejecución
+## 🚀 10. Instrucciones de ejecución
 
 ### 1️⃣ Capturar señas
 ```bash
@@ -162,23 +188,20 @@ Controles:
 
 ---
 
-## 🎞️ 10. Video de presentación (máx. 10 min)
+## 🎞️ 11. Video de presentación (máx. 10 min)
 
 Debe incluir:
 - Explicación de la arquitectura general del sistema.  
 - Demostración del reconocimiento de señas y validación de frases.  
 - Explicación del código clave (relación con autómatas y lenguajes formales).  
-- Reflexión final sobre la utilidad social del proyecto.
-- Carpeta Videos Presentacion
-- https://drive.google.com/drive/folders/10dgU9ftYoOy_6GdC403cCi4HoA1dpxSr?usp=drive_link
+- Reflexión final sobre la utilidad social del proyecto.  
+
+📁 Carpeta de videos de presentación:  
+🔗 https://drive.google.com/drive/folders/10dgU9ftYoOy_6GdC403cCi4HoA1dpxSr?usp=drive_link
 
 ---
 
-
-
----
-
-## 👥 11. Público beneficiado
+## 👥 12. Público beneficiado
 
 - Personas con sordera profunda y/o mutismo.  
 - Niños en alfabetización bilingüe (señas + español).  
@@ -186,7 +209,7 @@ Debe incluir:
 
 ---
 
-## 🧠 12. Conceptos aplicados
+## 🧠 13. Conceptos aplicados
 
 - Autómatas finitos deterministas (AFD).  
 - Gramáticas libres de contexto (CFG).  
@@ -196,11 +219,11 @@ Debe incluir:
 
 ---
 
-## 🏁 13. Licencia
+## 🏁 14. Licencia
 
 Este proyecto se desarrolla con fines **académicos y educativos**.  
-Se autoriza su uso, modificación y difusión reconociendo al autor original:
+Se autoriza su uso, modificación y difusión reconociendo a los autores originales.
 
-
-Estudiantes de Ingeniería en Sistemas  
+**Estudiantes de Ingeniería en Sistemas**  
 Universidad Mariano Gálvez de Guatemala
+
