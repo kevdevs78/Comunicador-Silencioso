@@ -226,4 +226,3 @@ Se autoriza su uso, modificación y difusión reconociendo a los autores origina
 
 **Estudiantes de Ingeniería en Sistemas**  
 Universidad Mariano Gálvez de Guatemala
-
