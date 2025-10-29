@@ -168,7 +168,9 @@ Debe incluir:
 - Explicación de la arquitectura general del sistema.  
 - Demostración del reconocimiento de señas y validación de frases.  
 - Explicación del código clave (relación con autómatas y lenguajes formales).  
-- Reflexión final sobre la utilidad social del proyecto.  
+- Reflexión final sobre la utilidad social del proyecto.
+- Carpeta Videos Presentacion
+- https://drive.google.com/drive/folders/10dgU9ftYoOy_6GdC403cCi4HoA1dpxSr?usp=drive_link
 
 ---
 
