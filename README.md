@@ -1,6 +1,12 @@
 #  Proyecto N.º 5: Comunicador Silencioso  
 **Universidad Mariano Gálvez de Guatemala**  
-**Curso:** Autómatas y Lenguajes Formales  
+**Curso:** Autómatas y Lenguajes Formales 
+**Integrantes:** 
+Diego Roberto Bautista Ixcoy.            0903-23-5352 
+Kevin Clay Ventura Santizo.              0903-23-6505 
+José Carlos De León González.            0903-23-23456
+Franki Estuardo Cipriano Valdez.         0903-24-16316
+Cristian Alexander Ramírez Velásquez     0903-23-20614
 
 ---
 
